@@ -1,0 +1,29 @@
+{
+  "name": "react-native-navigation-experimental-compat",
+  "version": "1.0.0",
+  "description": "NavigationExperimental as a package.",
+  "main": "src/NavigationExperimental.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goshakkk/react-native-navigation-experimental-compat.git"
+  },
+  "keywords": [
+    "React",
+    "React",
+    "Native",
+    "navigator",
+    "NavigationExperimental"
+  ],
+  "author": "Facebook, Inc",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/goshakkk/react-native-navigation-experimental-compat/issues"
+  },
+  "homepage": "https://github.com/goshakkk/react-native-navigation-experimental-compat#readme",
+  "dependencies": {
+    "fbjs": "~0.8.9"
+  }
+}
