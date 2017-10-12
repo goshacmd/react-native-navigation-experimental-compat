@@ -41,7 +41,8 @@ const React = require('react');
 const StyleSheet = require('react-native').StyleSheet;
 const View = require('react-native').View;
 
-const {PropTypes} = React;
+import PropTypes from 'prop-types';
+
 const {Directions} = NavigationCardStackPanResponder;
 
 import type {
