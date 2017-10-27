@@ -24,7 +24,8 @@ import type  {
 const Animated = require('react-native').Animated;
 const React = require('react');
 
-const {PropTypes} = React;
+import PropTypes from 'prop-types';
+
 
 /* NavigationAction */
 const action =  PropTypes.shape({
